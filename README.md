@@ -37,4 +37,4 @@ upload hasil jawaban anda melalui github/gitlab
 
 ERD (lampiran di bawah):
 
-Gambar Tanpa Teks
+![ERD vehicle](https://github.com/developmentcreator/SERU-Testing-Back-end-Developer/assets/81550212/fef07355-0cab-44b2-81c2-9dd9a5cce26b)
